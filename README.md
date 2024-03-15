@@ -1,1 +1,1 @@
-# viasync-assets
+Assets for the upcoming ViaSync website.

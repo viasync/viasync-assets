@@ -1,1 +1,1 @@
-Assets for the upcoming ViaSync website.
+Assets for the upcoming ViaSync website and service.
